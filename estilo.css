@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+    color:blue;
+}
+h1,h2{
+    color: burlywood;
+}
+.card{
+    margin-bottom: 20px;
+    border: 10px;
+}
+button{
+    background-color: skyblue;
+    color: black;
+}
